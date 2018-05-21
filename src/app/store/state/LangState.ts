@@ -20,7 +20,7 @@ export class LangModel {
   }
 
   public getText(alias: string) {
-    return alias;
+    return this.texts[this.currentLang][alias];
   }
 
 }
