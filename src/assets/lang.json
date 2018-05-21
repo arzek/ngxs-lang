@@ -1,0 +1,13 @@
+{
+  "langs": ["ua", "ru"],
+  "texts": {
+    "ua": {
+      "title": "Заголовок",
+      "text": "Текст"
+    },
+    "us": {
+      "title": "title",
+      "text": "Text"
+    }
+  }
+}
